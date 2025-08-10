@@ -1,5 +1,4 @@
 *appendonly.aof
 *dump.rdb
 *nodes.conf
-*README.md
 *redis.log
