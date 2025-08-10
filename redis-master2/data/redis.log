@@ -1,0 +1,655 @@
+1:C 10 Aug 2025 16:07:44.098 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 10 Aug 2025 16:07:44.099 # Redis version=6.2.19, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 10 Aug 2025 16:07:44.100 # Configuration loaded
+1:M 10 Aug 2025 16:07:44.102 * monotonic clock: POSIX clock_gettime
+1:M 10 Aug 2025 16:07:44.106 * No cluster configuration found, I'm 3ce8e845e025e2328d0ede55ab1f19dc3297de01
+1:M 10 Aug 2025 16:07:44.108 * Running mode=cluster, port=6379.
+1:M 10 Aug 2025 16:07:44.109 # Server initialized
+1:M 10 Aug 2025 16:07:44.110 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 10 Aug 2025 16:07:44.113 * Ready to accept connections
+1:M 10 Aug 2025 16:07:44.942 - Accepted 192.168.65.1:36655
+1:M 10 Aug 2025 16:07:44.946 - Client closed connection
+1:M 10 Aug 2025 16:07:46.950 - Accepted 192.168.65.1:36661
+1:M 10 Aug 2025 16:07:46.954 - Client closed connection
+1:M 10 Aug 2025 16:07:48.955 - Accepted 192.168.65.1:36683
+1:M 10 Aug 2025 16:07:48.959 - Client closed connection
+1:M 10 Aug 2025 16:07:50.959 - Accepted 192.168.65.1:36705
+1:M 10 Aug 2025 16:07:50.961 - Client closed connection
+1:M 10 Aug 2025 16:07:52.967 - Accepted 192.168.65.1:36711
+1:M 10 Aug 2025 16:07:52.972 - Client closed connection
+1:M 10 Aug 2025 16:07:54.973 - Accepted 192.168.65.1:36717
+1:M 10 Aug 2025 16:07:54.977 - Client closed connection
+1:M 10 Aug 2025 16:07:56.976 - Accepted 192.168.65.1:36723
+1:M 10 Aug 2025 16:07:56.979 - Client closed connection
+1:M 10 Aug 2025 16:07:58.982 - Accepted 192.168.65.1:36745
+1:M 10 Aug 2025 16:07:58.986 - Client closed connection
+1:M 10 Aug 2025 16:08:00.987 - Accepted 192.168.65.1:36767
+1:M 10 Aug 2025 16:08:00.992 - Client closed connection
+1:M 10 Aug 2025 16:08:02.992 - Accepted 192.168.65.1:36773
+1:M 10 Aug 2025 16:08:02.996 - Client closed connection
+1:M 10 Aug 2025 16:08:04.997 - Accepted 192.168.65.1:36779
+1:M 10 Aug 2025 16:08:05.001 - Client closed connection
+1:M 10 Aug 2025 16:08:07.003 - Accepted 192.168.65.1:36785
+1:M 10 Aug 2025 16:08:07.007 - Client closed connection
+1:M 10 Aug 2025 16:08:09.008 - Accepted 192.168.65.1:36807
+1:M 10 Aug 2025 16:08:09.012 - Client closed connection
+1:M 10 Aug 2025 16:08:11.017 - Accepted 192.168.65.1:36829
+1:M 10 Aug 2025 16:08:11.022 - Client closed connection
+1:M 10 Aug 2025 16:08:13.028 - Accepted 192.168.65.1:36835
+1:M 10 Aug 2025 16:08:13.031 - Client closed connection
+1:M 10 Aug 2025 16:08:15.033 - Accepted 192.168.65.1:36841
+1:M 10 Aug 2025 16:08:15.036 - Client closed connection
+1:M 10 Aug 2025 16:08:17.035 - Accepted 192.168.65.1:36847
+1:M 10 Aug 2025 16:08:17.036 - Client closed connection
+1:M 10 Aug 2025 16:08:19.045 - Accepted 192.168.65.1:36869
+1:M 10 Aug 2025 16:08:19.048 - Client closed connection
+1:M 10 Aug 2025 16:08:21.050 - Accepted 192.168.65.1:36891
+1:M 10 Aug 2025 16:08:21.054 - Client closed connection
+1:M 10 Aug 2025 16:08:23.059 - Accepted 192.168.65.1:36897
+1:M 10 Aug 2025 16:08:23.062 - Client closed connection
+1:M 10 Aug 2025 16:08:25.062 - Accepted 192.168.65.1:36903
+1:M 10 Aug 2025 16:08:25.067 - Client closed connection
+1:M 10 Aug 2025 16:08:27.062 - Accepted 192.168.65.1:36909
+1:M 10 Aug 2025 16:08:27.063 - Client closed connection
+1:M 10 Aug 2025 16:08:29.070 - Accepted 192.168.65.1:36931
+1:M 10 Aug 2025 16:08:29.077 - Client closed connection
+1:M 10 Aug 2025 16:08:31.075 - Accepted 192.168.65.1:36953
+1:M 10 Aug 2025 16:08:31.078 - Client closed connection
+1:M 10 Aug 2025 16:08:33.084 - Accepted 192.168.65.1:36959
+1:M 10 Aug 2025 16:08:33.089 - Client closed connection
+1:M 10 Aug 2025 16:08:35.088 - Accepted 192.168.65.1:36965
+1:M 10 Aug 2025 16:08:35.093 - Client closed connection
+1:M 10 Aug 2025 16:08:37.090 - Accepted 192.168.65.1:36987
+1:M 10 Aug 2025 16:08:37.091 - Client closed connection
+1:M 10 Aug 2025 16:08:39.096 - Accepted 192.168.65.1:36993
+1:M 10 Aug 2025 16:08:39.098 - Client closed connection
+1:M 10 Aug 2025 16:08:41.106 - Accepted 192.168.65.1:37015
+1:M 10 Aug 2025 16:08:41.110 - Client closed connection
+1:M 10 Aug 2025 16:08:43.111 - Accepted 192.168.65.1:37021
+1:M 10 Aug 2025 16:08:43.115 - Client closed connection
+1:M 10 Aug 2025 16:08:45.121 - Accepted 192.168.65.1:37027
+1:M 10 Aug 2025 16:08:45.125 - Client closed connection
+1:M 10 Aug 2025 16:08:47.125 - Accepted 192.168.65.1:37049
+1:M 10 Aug 2025 16:08:47.126 - Client closed connection
+1:M 10 Aug 2025 16:08:49.127 - Accepted 192.168.65.1:37055
+1:M 10 Aug 2025 16:08:49.129 - Client closed connection
+1:M 10 Aug 2025 16:08:51.133 - Accepted 192.168.65.1:37077
+1:M 10 Aug 2025 16:08:51.135 - Client closed connection
+1:M 10 Aug 2025 16:08:53.139 - Accepted 192.168.65.1:37083
+1:M 10 Aug 2025 16:08:53.142 - Client closed connection
+1:M 10 Aug 2025 16:08:55.141 - Accepted 192.168.65.1:37089
+1:M 10 Aug 2025 16:08:55.144 - Client closed connection
+1:M 10 Aug 2025 16:08:57.148 - Accepted 192.168.65.1:37111
+1:M 10 Aug 2025 16:08:57.149 - Client closed connection
+1:M 10 Aug 2025 16:08:59.150 - Accepted 192.168.65.1:37117
+1:M 10 Aug 2025 16:08:59.151 - Client closed connection
+1:M 10 Aug 2025 16:09:01.161 - Accepted 192.168.65.1:37139
+1:M 10 Aug 2025 16:09:01.165 - Client closed connection
+1:M 10 Aug 2025 16:09:03.167 - Accepted 192.168.65.1:37145
+1:M 10 Aug 2025 16:09:03.171 - Client closed connection
+1:M 10 Aug 2025 16:09:05.170 - Accepted 192.168.65.1:37151
+1:M 10 Aug 2025 16:09:05.173 - Client closed connection
+1:M 10 Aug 2025 16:09:07.171 - Accepted 192.168.65.1:37173
+1:M 10 Aug 2025 16:09:07.172 - Client closed connection
+1:M 10 Aug 2025 16:09:09.173 - Accepted 192.168.65.1:37195
+1:M 10 Aug 2025 16:09:09.175 - Client closed connection
+1:M 10 Aug 2025 16:09:11.184 - Accepted 192.168.65.1:37213
+1:M 10 Aug 2025 16:09:11.190 - Client closed connection
+1:M 10 Aug 2025 16:09:13.185 - Accepted 192.168.65.1:37219
+1:M 10 Aug 2025 16:09:13.188 - Client closed connection
+1:M 10 Aug 2025 16:09:15.193 - Accepted 192.168.65.1:37225
+1:M 10 Aug 2025 16:09:15.196 - Client closed connection
+1:M 10 Aug 2025 16:09:17.198 - Accepted 192.168.65.1:37247
+1:M 10 Aug 2025 16:09:17.199 - Client closed connection
+1:M 10 Aug 2025 16:09:19.200 - Accepted 192.168.65.1:37269
+1:M 10 Aug 2025 16:09:19.201 - Client closed connection
+1:M 10 Aug 2025 16:09:21.204 - Accepted 192.168.65.1:37275
+1:M 10 Aug 2025 16:09:21.205 - Client closed connection
+1:M 10 Aug 2025 16:09:23.210 - Accepted 192.168.65.1:37281
+1:M 10 Aug 2025 16:09:23.215 - Client closed connection
+1:M 10 Aug 2025 16:09:25.221 - Accepted 192.168.65.1:37287
+1:M 10 Aug 2025 16:09:25.225 - Client closed connection
+1:M 10 Aug 2025 16:09:27.226 - Accepted 192.168.65.1:37309
+1:M 10 Aug 2025 16:09:27.227 - Client closed connection
+1:M 10 Aug 2025 16:09:29.227 - Accepted 192.168.65.1:37331
+1:M 10 Aug 2025 16:09:29.228 - Client closed connection
+1:M 10 Aug 2025 16:09:31.233 - Accepted 192.168.65.1:37337
+1:M 10 Aug 2025 16:09:31.235 - Client closed connection
+1:M 10 Aug 2025 16:09:33.242 - Accepted 192.168.65.1:37343
+1:M 10 Aug 2025 16:09:33.245 - Client closed connection
+1:M 10 Aug 2025 16:09:35.244 - Accepted 192.168.65.1:37349
+1:M 10 Aug 2025 16:09:35.247 - Client closed connection
+1:M 10 Aug 2025 16:09:37.247 - Accepted 192.168.65.1:37371
+1:M 10 Aug 2025 16:09:37.249 - Client closed connection
+1:M 10 Aug 2025 16:09:39.250 - Accepted 192.168.65.1:37393
+1:M 10 Aug 2025 16:09:39.251 - Client closed connection
+1:M 10 Aug 2025 16:09:41.257 - Accepted 192.168.65.1:37399
+1:M 10 Aug 2025 16:09:41.260 - Client closed connection
+1:M 10 Aug 2025 16:09:43.266 - Accepted 192.168.65.1:37405
+1:M 10 Aug 2025 16:09:43.270 - Client closed connection
+1:M 10 Aug 2025 16:09:45.271 - Accepted 192.168.65.1:37411
+1:M 10 Aug 2025 16:09:45.273 - Client closed connection
+1:M 10 Aug 2025 16:09:47.275 - Accepted 192.168.65.1:37433
+1:M 10 Aug 2025 16:09:47.277 - Client closed connection
+1:M 10 Aug 2025 16:09:49.277 - Accepted 192.168.65.1:37455
+1:M 10 Aug 2025 16:09:49.279 - Client closed connection
+1:M 10 Aug 2025 16:09:51.285 - Accepted 192.168.65.1:37461
+1:M 10 Aug 2025 16:09:51.290 - Client closed connection
+1:M 10 Aug 2025 16:09:53.291 - Accepted 192.168.65.1:37467
+1:M 10 Aug 2025 16:09:53.294 - Client closed connection
+1:M 10 Aug 2025 16:09:55.297 - Accepted 192.168.65.1:37473
+1:M 10 Aug 2025 16:09:55.300 - Client closed connection
+1:M 10 Aug 2025 16:09:57.301 - Accepted 192.168.65.1:37495
+1:M 10 Aug 2025 16:09:57.303 - Client closed connection
+1:M 10 Aug 2025 16:09:59.304 - Accepted 192.168.65.1:37517
+1:M 10 Aug 2025 16:09:59.305 - Client closed connection
+1:M 10 Aug 2025 16:10:01.311 - Accepted 192.168.65.1:37523
+1:M 10 Aug 2025 16:10:01.314 - Client closed connection
+1:M 10 Aug 2025 16:10:03.316 - Accepted 192.168.65.1:37529
+1:M 10 Aug 2025 16:10:03.320 - Client closed connection
+1:M 10 Aug 2025 16:10:05.322 - Accepted 192.168.65.1:37535
+1:M 10 Aug 2025 16:10:05.326 - Client closed connection
+1:M 10 Aug 2025 16:10:07.326 - Accepted 192.168.65.1:37557
+1:M 10 Aug 2025 16:10:07.329 - Client closed connection
+1:M 10 Aug 2025 16:10:09.332 - Accepted 192.168.65.1:37579
+1:M 10 Aug 2025 16:10:09.333 - Client closed connection
+1:M 10 Aug 2025 16:10:11.338 - Accepted 192.168.65.1:37585
+1:M 10 Aug 2025 16:10:11.342 - Client closed connection
+1:M 10 Aug 2025 16:10:13.341 - Accepted 192.168.65.1:37591
+1:M 10 Aug 2025 16:10:13.344 - Client closed connection
+1:M 10 Aug 2025 16:10:15.347 - Accepted 192.168.65.1:37597
+1:M 10 Aug 2025 16:10:15.351 - Client closed connection
+1:M 10 Aug 2025 16:10:17.356 - Accepted 192.168.65.1:37619
+1:M 10 Aug 2025 16:10:17.360 - Client closed connection
+1:M 10 Aug 2025 16:10:19.357 - Accepted 192.168.65.1:37641
+1:M 10 Aug 2025 16:10:19.359 - Client closed connection
+1:M 10 Aug 2025 16:10:21.362 - Accepted 192.168.65.1:37647
+1:M 10 Aug 2025 16:10:21.366 - Client closed connection
+1:M 10 Aug 2025 16:10:23.368 - Accepted 192.168.65.1:37653
+1:M 10 Aug 2025 16:10:23.371 - Client closed connection
+1:M 10 Aug 2025 16:10:25.375 - Accepted 192.168.65.1:37659
+1:M 10 Aug 2025 16:10:25.377 - Client closed connection
+1:M 10 Aug 2025 16:10:27.377 - Accepted 192.168.65.1:37681
+1:M 10 Aug 2025 16:10:27.378 - Client closed connection
+1:M 10 Aug 2025 16:10:29.385 - Accepted 192.168.65.1:37703
+1:M 10 Aug 2025 16:10:29.387 - Client closed connection
+1:M 10 Aug 2025 16:10:31.390 - Accepted 192.168.65.1:37709
+1:M 10 Aug 2025 16:10:31.393 - Client closed connection
+1:M 10 Aug 2025 16:10:33.396 - Accepted 192.168.65.1:37715
+1:M 10 Aug 2025 16:10:33.399 - Client closed connection
+1:M 10 Aug 2025 16:10:35.404 - Accepted 192.168.65.1:37721
+1:M 10 Aug 2025 16:10:35.407 - Client closed connection
+1:M 10 Aug 2025 16:10:37.409 - Accepted 192.168.65.1:37743
+1:M 10 Aug 2025 16:10:37.413 - Client closed connection
+1:M 10 Aug 2025 16:10:39.416 - Accepted 192.168.65.1:37765
+1:M 10 Aug 2025 16:10:39.421 - Client closed connection
+1:M 10 Aug 2025 16:10:41.420 - Accepted 192.168.65.1:37771
+1:M 10 Aug 2025 16:10:41.423 - Client closed connection
+1:M 10 Aug 2025 16:10:43.424 - Accepted 192.168.65.1:37777
+1:M 10 Aug 2025 16:10:43.427 - Client closed connection
+1:M 10 Aug 2025 16:10:45.433 - Accepted 192.168.65.1:37783
+1:M 10 Aug 2025 16:10:45.436 - Client closed connection
+1:M 10 Aug 2025 16:10:47.439 - Accepted 192.168.65.1:37805
+1:M 10 Aug 2025 16:10:47.442 - Client closed connection
+1:M 10 Aug 2025 16:10:49.442 - Accepted 192.168.65.1:37827
+1:M 10 Aug 2025 16:10:49.446 - Client closed connection
+1:M 10 Aug 2025 16:10:51.451 - Accepted 192.168.65.1:37833
+1:M 10 Aug 2025 16:10:51.455 - Client closed connection
+1:M 10 Aug 2025 16:10:53.454 - Accepted 192.168.65.1:37839
+1:M 10 Aug 2025 16:10:53.457 - Client closed connection
+1:M 10 Aug 2025 16:10:55.460 - Accepted 192.168.65.1:37845
+1:M 10 Aug 2025 16:10:55.463 - Client closed connection
+1:M 10 Aug 2025 16:10:57.461 - Accepted 192.168.65.1:37867
+1:M 10 Aug 2025 16:10:57.462 - Client closed connection
+1:M 10 Aug 2025 16:10:59.471 - Accepted 192.168.65.1:37889
+1:M 10 Aug 2025 16:10:59.474 - Client closed connection
+1:M 10 Aug 2025 16:11:01.475 - Accepted 192.168.65.1:37895
+1:M 10 Aug 2025 16:11:01.478 - Client closed connection
+1:M 10 Aug 2025 16:11:03.484 - Accepted 192.168.65.1:37901
+1:M 10 Aug 2025 16:11:03.488 - Client closed connection
+1:M 10 Aug 2025 16:11:05.488 - Accepted 192.168.65.1:37907
+1:M 10 Aug 2025 16:11:05.492 - Client closed connection
+1:M 10 Aug 2025 16:11:07.495 - Accepted 192.168.65.1:37929
+1:M 10 Aug 2025 16:11:07.498 - Client closed connection
+1:M 10 Aug 2025 16:11:09.498 - Accepted 192.168.65.1:37951
+1:M 10 Aug 2025 16:11:09.503 - Client closed connection
+1:M 10 Aug 2025 16:11:11.502 - Accepted 192.168.65.1:37957
+1:M 10 Aug 2025 16:11:11.505 - Client closed connection
+1:M 10 Aug 2025 16:11:13.511 - Accepted 192.168.65.1:37963
+1:M 10 Aug 2025 16:11:13.515 - Client closed connection
+1:M 10 Aug 2025 16:11:15.517 - Accepted 192.168.65.1:37969
+1:M 10 Aug 2025 16:11:15.521 - Client closed connection
+1:M 10 Aug 2025 16:11:17.521 - Accepted 192.168.65.1:37991
+1:M 10 Aug 2025 16:11:17.524 - Client closed connection
+1:M 10 Aug 2025 16:11:19.529 - Accepted 192.168.65.1:38013
+1:M 10 Aug 2025 16:11:19.534 - Client closed connection
+1:M 10 Aug 2025 16:11:21.536 - Accepted 192.168.65.1:38019
+1:M 10 Aug 2025 16:11:21.538 - Client closed connection
+1:M 10 Aug 2025 16:11:23.542 - Accepted 192.168.65.1:38025
+1:M 10 Aug 2025 16:11:23.546 - Client closed connection
+1:M 10 Aug 2025 16:11:25.549 - Accepted 192.168.65.1:38031
+1:M 10 Aug 2025 16:11:25.553 - Client closed connection
+1:M 10 Aug 2025 16:11:27.550 - Accepted 192.168.65.1:38053
+1:M 10 Aug 2025 16:11:27.552 - Client closed connection
+1:M 10 Aug 2025 16:11:29.559 - Accepted 192.168.65.1:38075
+1:M 10 Aug 2025 16:11:29.563 - Client closed connection
+1:M 10 Aug 2025 16:11:31.566 - Accepted 192.168.65.1:38081
+1:M 10 Aug 2025 16:11:31.571 - Client closed connection
+1:M 10 Aug 2025 16:11:33.570 - Accepted 192.168.65.1:38087
+1:M 10 Aug 2025 16:11:33.572 - Client closed connection
+1:M 10 Aug 2025 16:11:35.575 - Accepted 192.168.65.1:38093
+1:M 10 Aug 2025 16:11:35.578 - Client closed connection
+1:M 10 Aug 2025 16:11:37.581 - Accepted 192.168.65.1:38115
+1:M 10 Aug 2025 16:11:37.585 - Client closed connection
+1:M 10 Aug 2025 16:11:39.586 - Accepted 192.168.65.1:38137
+1:M 10 Aug 2025 16:11:39.589 - Client closed connection
+1:M 10 Aug 2025 16:11:41.589 - Accepted 192.168.65.1:38143
+1:M 10 Aug 2025 16:11:41.593 - Client closed connection
+1:M 10 Aug 2025 16:11:43.594 - Accepted 192.168.65.1:38149
+1:M 10 Aug 2025 16:11:43.598 - Client closed connection
+1:M 10 Aug 2025 16:11:45.600 - Accepted 192.168.65.1:38155
+1:M 10 Aug 2025 16:11:45.603 - Client closed connection
+1:M 10 Aug 2025 16:11:47.607 - Accepted 192.168.65.1:38177
+1:M 10 Aug 2025 16:11:47.610 - Client closed connection
+1:M 10 Aug 2025 16:11:49.612 - Accepted 192.168.65.1:38199
+1:M 10 Aug 2025 16:11:49.616 - Client closed connection
+1:M 10 Aug 2025 16:11:51.618 - Accepted 192.168.65.1:38205
+1:M 10 Aug 2025 16:11:51.622 - Client closed connection
+1:M 10 Aug 2025 16:11:53.623 - Accepted 192.168.65.1:38211
+1:M 10 Aug 2025 16:11:53.626 - Client closed connection
+1:M 10 Aug 2025 16:11:55.628 - Accepted 192.168.65.1:38217
+1:M 10 Aug 2025 16:11:55.633 - Client closed connection
+1:M 10 Aug 2025 16:11:57.636 - Accepted 192.168.65.1:38239
+1:M 10 Aug 2025 16:11:57.639 - Client closed connection
+1:M 10 Aug 2025 16:11:59.640 - Accepted 192.168.65.1:38261
+1:M 10 Aug 2025 16:11:59.643 - Client closed connection
+1:M 10 Aug 2025 16:12:01.647 - Accepted 192.168.65.1:38267
+1:M 10 Aug 2025 16:12:01.650 - Client closed connection
+1:M 10 Aug 2025 16:12:03.652 - Accepted 192.168.65.1:38273
+1:M 10 Aug 2025 16:12:03.655 - Client closed connection
+1:M 10 Aug 2025 16:12:05.656 - Accepted 192.168.65.1:38279
+1:M 10 Aug 2025 16:12:05.659 - Client closed connection
+1:M 10 Aug 2025 16:12:07.660 - Accepted 192.168.65.1:38301
+1:M 10 Aug 2025 16:12:07.665 - Client closed connection
+1:M 10 Aug 2025 16:12:09.667 - Accepted 192.168.65.1:38323
+1:M 10 Aug 2025 16:12:09.672 - Client closed connection
+1:M 10 Aug 2025 16:12:11.667 - Accepted 192.168.65.1:38329
+1:M 10 Aug 2025 16:12:11.671 - Client closed connection
+1:M 10 Aug 2025 16:12:13.673 - Accepted 192.168.65.1:38335
+1:M 10 Aug 2025 16:12:13.676 - Client closed connection
+1:M 10 Aug 2025 16:12:15.679 - Accepted 192.168.65.1:38341
+1:M 10 Aug 2025 16:12:15.683 - Client closed connection
+1:M 10 Aug 2025 16:12:17.684 - Accepted 192.168.65.1:38363
+1:M 10 Aug 2025 16:12:17.687 - Client closed connection
+1:M 10 Aug 2025 16:12:19.685 - Accepted 192.168.65.1:38410
+1:M 10 Aug 2025 16:12:19.688 - Client closed connection
+1:M 10 Aug 2025 16:12:21.687 - Accepted 192.168.65.1:38416
+1:M 10 Aug 2025 16:12:21.688 - Client closed connection
+1:M 10 Aug 2025 16:12:23.699 - Accepted 192.168.65.1:38422
+1:M 10 Aug 2025 16:12:23.703 - Client closed connection
+1:M 10 Aug 2025 16:12:24.344 - Accepted 192.168.65.1:38431
+1:M 10 Aug 2025 16:12:24.382 # configEpoch set to 2 via CLUSTER SET-CONFIG-EPOCH
+1:M 10 Aug 2025 16:12:24.514 - Accepting cluster node connection from 192.168.65.1:59297
+1:M 10 Aug 2025 16:12:25.321 - Accepting cluster node connection from 192.168.65.1:59309
+1:M 10 Aug 2025 16:12:25.531 - Accepting cluster node connection from 192.168.65.1:59315
+1:M 10 Aug 2025 16:12:25.631 - Accepting cluster node connection from 192.168.65.1:59318
+1:M 10 Aug 2025 16:12:25.707 - Accepted 192.168.65.1:38468
+1:M 10 Aug 2025 16:12:25.710 - Client closed connection
+1:M 10 Aug 2025 16:12:25.726 - Accepting cluster node connection from 192.168.65.1:59321
+1:M 10 Aug 2025 16:12:26.452 - Accepted 192.168.65.1:38474
+1:M 10 Aug 2025 16:12:26.459 - Client closed connection
+1:M 10 Aug 2025 16:12:26.466 * Replica 192.168.65.1:6379 asks for synchronization
+1:M 10 Aug 2025 16:12:26.467 * Partial resynchronization not accepted: Replication ID mismatch (Replica asked for '8f1d31fadf8949b3a776db0037a6fbd84e945ed4', my replication IDs are '46500b284dd94b9535d03e2cd3be4a6fbfcc3082' and '0000000000000000000000000000000000000000')
+1:M 10 Aug 2025 16:12:26.469 * Replication backlog created, my new replication IDs are 'fd90a14f621aa8de8c74e2d9de6677e80a18000f' and '0000000000000000000000000000000000000000'
+1:M 10 Aug 2025 16:12:26.470 * Starting BGSAVE for SYNC with target: disk
+1:M 10 Aug 2025 16:12:26.471 * Background saving started by pid 22
+22:C 10 Aug 2025 16:12:26.475 * DB saved on disk
+1:M 10 Aug 2025 16:12:26.475 - Accepted 192.168.65.1:38478
+22:C 10 Aug 2025 16:12:26.476 * RDB: 0 MB of memory used by copy-on-write
+1:M 10 Aug 2025 16:12:26.482 - Client closed connection
+1:M 10 Aug 2025 16:12:26.545 * Background saving terminated with success
+1:M 10 Aug 2025 16:12:26.547 * Synchronization with replica 192.168.65.1:6379 succeeded
+1:M 10 Aug 2025 16:12:27.712 - Accepted 192.168.65.1:38500
+1:M 10 Aug 2025 16:12:27.718 - Client closed connection
+1:M 10 Aug 2025 16:12:29.383 # Cluster state changed: ok
+1:M 10 Aug 2025 16:12:29.719 - Accepted 192.168.65.1:38538
+1:M 10 Aug 2025 16:12:29.721 - Client closed connection
+1:M 10 Aug 2025 16:12:31.727 - Accepted 192.168.65.1:38544
+1:M 10 Aug 2025 16:12:31.742 - Client closed connection
+1:M 10 Aug 2025 16:12:33.728 - Accepted 192.168.65.1:38550
+1:M 10 Aug 2025 16:12:33.732 - Client closed connection
+1:M 10 Aug 2025 16:12:35.739 - Accepted 192.168.65.1:38556
+1:M 10 Aug 2025 16:12:35.742 - Client closed connection
+1:M 10 Aug 2025 16:12:37.742 - Accepted 192.168.65.1:38578
+1:M 10 Aug 2025 16:12:37.747 - Client closed connection
+1:M 10 Aug 2025 16:12:39.746 - Accepted 192.168.65.1:38616
+1:M 10 Aug 2025 16:12:39.749 - Client closed connection
+1:M 10 Aug 2025 16:12:41.751 - Accepted 192.168.65.1:38622
+1:M 10 Aug 2025 16:12:41.754 - Client closed connection
+1:M 10 Aug 2025 16:12:43.754 - Accepted 192.168.65.1:38628
+1:M 10 Aug 2025 16:12:43.758 - Client closed connection
+1:M 10 Aug 2025 16:12:45.760 - Accepted 192.168.65.1:38634
+1:M 10 Aug 2025 16:12:45.765 - Client closed connection
+1:M 10 Aug 2025 16:12:47.765 - Accepted 192.168.65.1:38656
+1:M 10 Aug 2025 16:12:47.768 - Client closed connection
+1:M 10 Aug 2025 16:12:49.771 - Accepted 192.168.65.1:38694
+1:M 10 Aug 2025 16:12:49.776 - Client closed connection
+1:M 10 Aug 2025 16:12:51.787 - Accepted 192.168.65.1:38700
+1:M 10 Aug 2025 16:12:51.791 - Client closed connection
+1:M 10 Aug 2025 16:12:53.788 - Accepted 192.168.65.1:38706
+1:M 10 Aug 2025 16:12:53.791 - Client closed connection
+1:M 10 Aug 2025 16:12:55.795 - Accepted 192.168.65.1:38712
+1:M 10 Aug 2025 16:12:55.798 - Client closed connection
+1:M 10 Aug 2025 16:12:57.802 - Accepted 192.168.65.1:38734
+1:M 10 Aug 2025 16:12:57.805 - Client closed connection
+1:M 10 Aug 2025 16:12:59.806 - Accepted 192.168.65.1:38772
+1:M 10 Aug 2025 16:12:59.810 - Client closed connection
+1:M 10 Aug 2025 16:13:01.806 - Accepted 192.168.65.1:38778
+1:M 10 Aug 2025 16:13:01.808 - Client closed connection
+1:M 10 Aug 2025 16:13:03.814 - Accepted 192.168.65.1:38784
+1:M 10 Aug 2025 16:13:03.818 - Client closed connection
+1:M 10 Aug 2025 16:13:05.820 - Accepted 192.168.65.1:38790
+1:M 10 Aug 2025 16:13:05.824 - Client closed connection
+1:M 10 Aug 2025 16:13:07.822 - Accepted 192.168.65.1:38812
+1:M 10 Aug 2025 16:13:07.825 - Client closed connection
+1:M 10 Aug 2025 16:13:09.827 - Accepted 192.168.65.1:38850
+1:M 10 Aug 2025 16:13:09.835 - Client closed connection
+1:M 10 Aug 2025 16:13:11.827 - Accepted 192.168.65.1:38856
+1:M 10 Aug 2025 16:13:11.828 - Client closed connection
+1:M 10 Aug 2025 16:13:13.835 - Accepted 192.168.65.1:38862
+1:M 10 Aug 2025 16:13:13.838 - Client closed connection
+1:M 10 Aug 2025 16:13:15.843 - Accepted 192.168.65.1:38868
+1:M 10 Aug 2025 16:13:15.847 - Client closed connection
+1:M 10 Aug 2025 16:13:17.847 - Accepted 192.168.65.1:38890
+1:M 10 Aug 2025 16:13:17.852 - Client closed connection
+1:M 10 Aug 2025 16:13:19.851 - Accepted 192.168.65.1:38928
+1:M 10 Aug 2025 16:13:19.854 - Client closed connection
+1:M 10 Aug 2025 16:13:21.854 - Accepted 192.168.65.1:38934
+1:M 10 Aug 2025 16:13:21.855 - Client closed connection
+1:M 10 Aug 2025 16:13:23.864 - Accepted 192.168.65.1:38940
+1:M 10 Aug 2025 16:13:23.868 - Client closed connection
+1:M 10 Aug 2025 16:13:25.874 - Accepted 192.168.65.1:38946
+1:M 10 Aug 2025 16:13:25.877 - Client closed connection
+1:M 10 Aug 2025 16:13:27.881 - Accepted 192.168.65.1:38968
+1:M 10 Aug 2025 16:13:27.883 - Client closed connection
+1:M 10 Aug 2025 16:13:29.886 - Accepted 192.168.65.1:39006
+1:M 10 Aug 2025 16:13:29.889 - Client closed connection
+1:M 10 Aug 2025 16:13:31.887 - Accepted 192.168.65.1:39012
+1:M 10 Aug 2025 16:13:31.889 - Client closed connection
+1:M 10 Aug 2025 16:13:33.893 - Accepted 192.168.65.1:39018
+1:M 10 Aug 2025 16:13:33.895 - Client closed connection
+1:M 10 Aug 2025 16:13:35.900 - Accepted 192.168.65.1:39024
+1:M 10 Aug 2025 16:13:35.903 - Client closed connection
+1:M 10 Aug 2025 16:13:37.904 - Accepted 192.168.65.1:39046
+1:M 10 Aug 2025 16:13:37.907 - Client closed connection
+1:M 10 Aug 2025 16:13:39.910 - Accepted 192.168.65.1:39084
+1:M 10 Aug 2025 16:13:39.914 - Client closed connection
+1:M 10 Aug 2025 16:13:41.909 - Accepted 192.168.65.1:39090
+1:M 10 Aug 2025 16:13:41.910 - Client closed connection
+1:M 10 Aug 2025 16:13:43.916 - Accepted 192.168.65.1:39096
+1:M 10 Aug 2025 16:13:43.920 - Client closed connection
+1:M 10 Aug 2025 16:13:45.926 - Accepted 192.168.65.1:39102
+1:M 10 Aug 2025 16:13:45.929 - Client closed connection
+1:M 10 Aug 2025 16:13:47.930 - Accepted 192.168.65.1:39124
+1:M 10 Aug 2025 16:13:47.933 - Client closed connection
+1:M 10 Aug 2025 16:13:49.934 - Accepted 192.168.65.1:39162
+1:M 10 Aug 2025 16:13:49.938 - Client closed connection
+1:M 10 Aug 2025 16:13:51.934 - Accepted 192.168.65.1:39168
+1:M 10 Aug 2025 16:13:51.935 - Client closed connection
+1:M 10 Aug 2025 16:13:53.944 - Accepted 192.168.65.1:39174
+1:M 10 Aug 2025 16:13:53.946 - Client closed connection
+1:M 10 Aug 2025 16:13:55.947 - Accepted 192.168.65.1:39180
+1:M 10 Aug 2025 16:13:55.951 - Client closed connection
+1:M 10 Aug 2025 16:13:57.953 - Accepted 192.168.65.1:39202
+1:M 10 Aug 2025 16:13:57.957 - Client closed connection
+1:M 10 Aug 2025 16:13:59.963 - Accepted 192.168.65.1:39240
+1:M 10 Aug 2025 16:13:59.967 - Client closed connection
+1:M 10 Aug 2025 16:14:01.963 - Accepted 192.168.65.1:39246
+1:M 10 Aug 2025 16:14:01.964 - Client closed connection
+1:M 10 Aug 2025 16:14:03.968 - Accepted 192.168.65.1:39252
+1:M 10 Aug 2025 16:14:03.971 - Client closed connection
+1:M 10 Aug 2025 16:14:05.972 - Accepted 192.168.65.1:39258
+1:M 10 Aug 2025 16:14:05.977 - Client closed connection
+1:M 10 Aug 2025 16:14:07.982 - Accepted 192.168.65.1:39280
+1:M 10 Aug 2025 16:14:07.985 - Client closed connection
+1:M 10 Aug 2025 16:14:09.988 - Accepted 192.168.65.1:39318
+1:M 10 Aug 2025 16:14:09.993 - Client closed connection
+1:M 10 Aug 2025 16:14:11.986 - Accepted 192.168.65.1:39324
+1:M 10 Aug 2025 16:14:11.987 - Client closed connection
+1:M 10 Aug 2025 16:14:13.996 - Accepted 192.168.65.1:39330
+1:M 10 Aug 2025 16:14:13.999 - Client closed connection
+1:M 10 Aug 2025 16:14:16.001 - Accepted 192.168.65.1:39336
+1:M 10 Aug 2025 16:14:16.005 - Client closed connection
+1:M 10 Aug 2025 16:14:18.006 - Accepted 192.168.65.1:39358
+1:M 10 Aug 2025 16:14:18.012 - Client closed connection
+1:M 10 Aug 2025 16:14:20.010 - Accepted 192.168.65.1:39396
+1:M 10 Aug 2025 16:14:20.013 - Client closed connection
+1:M 10 Aug 2025 16:14:22.011 - Accepted 192.168.65.1:39402
+1:M 10 Aug 2025 16:14:22.012 - Client closed connection
+1:M 10 Aug 2025 16:14:24.019 - Accepted 192.168.65.1:39408
+1:M 10 Aug 2025 16:14:24.023 - Client closed connection
+1:M 10 Aug 2025 16:14:26.019 - Accepted 192.168.65.1:39414
+1:M 10 Aug 2025 16:14:26.020 - Client closed connection
+1:M 10 Aug 2025 16:14:28.029 - Accepted 192.168.65.1:39436
+1:M 10 Aug 2025 16:14:28.033 - Client closed connection
+1:M 10 Aug 2025 16:14:30.037 - Accepted 192.168.65.1:39474
+1:M 10 Aug 2025 16:14:30.042 - Client closed connection
+1:M 10 Aug 2025 16:14:32.040 - Accepted 192.168.65.1:39480
+1:M 10 Aug 2025 16:14:32.041 - Client closed connection
+1:M 10 Aug 2025 16:14:34.047 - Accepted 192.168.65.1:39486
+1:M 10 Aug 2025 16:14:34.051 - Client closed connection
+1:M 10 Aug 2025 16:14:36.050 - Accepted 192.168.65.1:39492
+1:M 10 Aug 2025 16:14:36.052 - Client closed connection
+1:M 10 Aug 2025 16:14:38.057 - Accepted 192.168.65.1:39514
+1:M 10 Aug 2025 16:14:38.061 - Client closed connection
+1:M 10 Aug 2025 16:14:40.063 - Accepted 192.168.65.1:39552
+1:M 10 Aug 2025 16:14:40.067 - Client closed connection
+1:M 10 Aug 2025 16:14:42.065 - Accepted 192.168.65.1:39560
+1:M 10 Aug 2025 16:14:42.068 - Client closed connection
+1:M 10 Aug 2025 16:14:44.070 - Accepted 192.168.65.1:39566
+1:M 10 Aug 2025 16:14:44.074 - Client closed connection
+1:M 10 Aug 2025 16:14:46.077 - Accepted 192.168.65.1:39572
+1:M 10 Aug 2025 16:14:46.081 - Client closed connection
+1:M 10 Aug 2025 16:14:48.080 - Accepted 192.168.65.1:39594
+1:M 10 Aug 2025 16:14:48.086 - Client closed connection
+1:M 10 Aug 2025 16:14:50.086 - Accepted 192.168.65.1:39632
+1:M 10 Aug 2025 16:14:50.091 - Client closed connection
+1:M 10 Aug 2025 16:14:52.085 - Accepted 192.168.65.1:39638
+1:M 10 Aug 2025 16:14:52.086 - Client closed connection
+1:M 10 Aug 2025 16:14:54.094 - Accepted 192.168.65.1:39644
+1:M 10 Aug 2025 16:14:54.097 - Client closed connection
+1:M 10 Aug 2025 16:14:56.095 - Accepted 192.168.65.1:39650
+1:M 10 Aug 2025 16:14:56.097 - Client closed connection
+1:M 10 Aug 2025 16:14:58.103 - Accepted 192.168.65.1:39672
+1:M 10 Aug 2025 16:14:58.107 - Client closed connection
+1:M 10 Aug 2025 16:15:00.116 - Accepted 192.168.65.1:39710
+1:M 10 Aug 2025 16:15:00.133 - Client closed connection
+1:M 10 Aug 2025 16:15:02.120 - Accepted 192.168.65.1:39716
+1:M 10 Aug 2025 16:15:02.124 - Client closed connection
+1:M 10 Aug 2025 16:15:04.124 - Accepted 192.168.65.1:39722
+1:M 10 Aug 2025 16:15:04.126 - Client closed connection
+1:M 10 Aug 2025 16:15:06.129 - Accepted 192.168.65.1:39728
+1:M 10 Aug 2025 16:15:06.132 - Client closed connection
+1:M 10 Aug 2025 16:15:08.135 - Accepted 192.168.65.1:39750
+1:M 10 Aug 2025 16:15:08.140 - Client closed connection
+1:M 10 Aug 2025 16:15:10.138 - Accepted 192.168.65.1:39788
+1:M 10 Aug 2025 16:15:10.143 - Client closed connection
+1:M 10 Aug 2025 16:15:12.138 - Accepted 192.168.65.1:39794
+1:M 10 Aug 2025 16:15:12.140 - Client closed connection
+1:M 10 Aug 2025 16:15:14.145 - Accepted 192.168.65.1:39800
+1:M 10 Aug 2025 16:15:14.149 - Client closed connection
+1:M 10 Aug 2025 16:15:16.151 - Accepted 192.168.65.1:39806
+1:M 10 Aug 2025 16:15:16.156 - Client closed connection
+1:M 10 Aug 2025 16:15:18.157 - Accepted 192.168.65.1:39828
+1:M 10 Aug 2025 16:15:18.160 - Client closed connection
+1:M 10 Aug 2025 16:15:20.161 - Accepted 192.168.65.1:39866
+1:M 10 Aug 2025 16:15:20.164 - Client closed connection
+1:M 10 Aug 2025 16:15:22.164 - Accepted 192.168.65.1:39872
+1:M 10 Aug 2025 16:15:22.166 - Client closed connection
+1:M 10 Aug 2025 16:15:24.169 - Accepted 192.168.65.1:39878
+1:M 10 Aug 2025 16:15:24.173 - Client closed connection
+1:M 10 Aug 2025 16:15:26.176 - Accepted 192.168.65.1:39884
+1:M 10 Aug 2025 16:15:26.178 - Client closed connection
+1:M 10 Aug 2025 16:15:28.182 - Accepted 192.168.65.1:39906
+1:M 10 Aug 2025 16:15:28.185 - Client closed connection
+1:M 10 Aug 2025 16:15:30.183 - Accepted 192.168.65.1:39944
+1:M 10 Aug 2025 16:15:30.185 - Client closed connection
+1:M 10 Aug 2025 16:15:32.191 - Accepted 192.168.65.1:39950
+1:M 10 Aug 2025 16:15:32.194 - Client closed connection
+1:M 10 Aug 2025 16:15:34.195 - Accepted 192.168.65.1:39973
+1:M 10 Aug 2025 16:15:34.196 - Client closed connection
+1:M 10 Aug 2025 16:15:36.200 - Accepted 192.168.65.1:39982
+1:M 10 Aug 2025 16:15:36.202 - Client closed connection
+1:M 10 Aug 2025 16:15:38.203 - Accepted 192.168.65.1:40021
+1:M 10 Aug 2025 16:15:38.205 - Client closed connection
+1:M 10 Aug 2025 16:15:40.204 - Accepted 192.168.65.1:40063
+1:M 10 Aug 2025 16:15:40.205 - Client closed connection
+1:M 10 Aug 2025 16:15:42.207 - Accepted 192.168.65.1:40069
+1:M 10 Aug 2025 16:15:42.209 - Client closed connection
+1:M 10 Aug 2025 16:15:44.211 - Accepted 192.168.65.1:40075
+1:M 10 Aug 2025 16:15:44.213 - Client closed connection
+1:M 10 Aug 2025 16:15:46.214 - Accepted 192.168.65.1:40081
+1:M 10 Aug 2025 16:15:46.217 - Client closed connection
+1:M 10 Aug 2025 16:15:48.222 - Accepted 192.168.65.1:40103
+1:M 10 Aug 2025 16:15:48.226 - Client closed connection
+1:M 10 Aug 2025 16:15:50.222 - Accepted 192.168.65.1:40125
+1:M 10 Aug 2025 16:15:50.225 - Client closed connection
+1:M 10 Aug 2025 16:15:52.227 - Accepted 192.168.65.1:40131
+1:M 10 Aug 2025 16:15:52.230 - Client closed connection
+1:M 10 Aug 2025 16:15:54.233 - Accepted 192.168.65.1:40137
+1:M 10 Aug 2025 16:15:54.238 - Client closed connection
+1:M 10 Aug 2025 16:15:56.241 - Accepted 192.168.65.1:40142
+1:M 10 Aug 2025 16:15:56.244 - Client closed connection
+1:M 10 Aug 2025 16:15:58.243 - Accepted 192.168.65.1:40164
+1:M 10 Aug 2025 16:15:58.245 - Client closed connection
+1:M 10 Aug 2025 16:16:00.254 - Accepted 192.168.65.1:40187
+1:M 10 Aug 2025 16:16:00.259 - Client closed connection
+1:M 10 Aug 2025 16:16:02.266 - Accepted 192.168.65.1:40192
+1:M 10 Aug 2025 16:16:02.271 - Client closed connection
+1:M 10 Aug 2025 16:16:04.274 - Accepted 192.168.65.1:40199
+1:M 10 Aug 2025 16:16:04.278 - Client closed connection
+1:M 10 Aug 2025 16:16:06.279 - Accepted 192.168.65.1:40204
+1:M 10 Aug 2025 16:16:06.283 - Client closed connection
+1:M 10 Aug 2025 16:16:08.284 - Accepted 192.168.65.1:40226
+1:M 10 Aug 2025 16:16:08.287 - Client closed connection
+1:M 10 Aug 2025 16:16:10.287 - Accepted 192.168.65.1:40249
+1:M 10 Aug 2025 16:16:10.289 - Client closed connection
+1:M 10 Aug 2025 16:16:12.293 - Accepted 192.168.65.1:40269
+1:M 10 Aug 2025 16:16:12.297 - Client closed connection
+1:M 10 Aug 2025 16:16:14.304 - Accepted 192.168.65.1:40275
+1:M 10 Aug 2025 16:16:14.308 - Client closed connection
+1:M 10 Aug 2025 16:16:16.311 - Accepted 192.168.65.1:40282
+1:M 10 Aug 2025 16:16:16.315 - Client closed connection
+1:M 10 Aug 2025 16:16:18.320 - Accepted 192.168.65.1:40303
+1:M 10 Aug 2025 16:16:18.324 - Client closed connection
+1:M 10 Aug 2025 16:16:19.507 - Accepted 192.168.65.1:40334
+1:M 10 Aug 2025 16:16:19.511 - Client closed connection
+1:M 10 Aug 2025 16:16:20.066 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:16:20.329 - Accepted 192.168.65.1:40341
+1:M 10 Aug 2025 16:16:20.332 - Client closed connection
+1:M 10 Aug 2025 16:16:22.336 - Accepted 192.168.65.1:40347
+1:M 10 Aug 2025 16:16:22.342 - Client closed connection
+1:M 10 Aug 2025 16:16:24.346 - Accepted 192.168.65.1:40353
+1:M 10 Aug 2025 16:16:24.349 - Client closed connection
+1:M 10 Aug 2025 16:16:25.122 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:16:26.349 - Accepted 192.168.65.1:40359
+1:M 10 Aug 2025 16:16:26.352 - Client closed connection
+1:M 10 Aug 2025 16:16:28.356 - Accepted 192.168.65.1:40399
+1:M 10 Aug 2025 16:16:28.358 - Client closed connection
+1:M 10 Aug 2025 16:16:30.181 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:16:30.361 - Accepted 192.168.65.1:40420
+1:M 10 Aug 2025 16:16:30.362 - Client closed connection
+1:M 10 Aug 2025 16:16:32.367 - Accepted 192.168.65.1:40447
+1:M 10 Aug 2025 16:16:32.369 - Client closed connection
+1:M 10 Aug 2025 16:16:34.375 - Accepted 192.168.65.1:40452
+1:M 10 Aug 2025 16:16:34.377 - Client closed connection
+1:M 10 Aug 2025 16:16:35.233 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:16:36.377 - Accepted 192.168.65.1:40478
+1:M 10 Aug 2025 16:16:36.378 - Client closed connection
+1:M 10 Aug 2025 16:16:38.389 - Accepted 192.168.65.1:40501
+1:M 10 Aug 2025 16:16:38.391 - Client closed connection
+1:M 10 Aug 2025 16:16:40.284 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:16:40.391 - Accepted 192.168.65.1:40523
+1:M 10 Aug 2025 16:16:40.393 - Client closed connection
+1:M 10 Aug 2025 16:16:42.397 - Accepted 192.168.65.1:40529
+1:M 10 Aug 2025 16:16:42.401 - Client closed connection
+1:M 10 Aug 2025 16:16:44.408 - Accepted 192.168.65.1:40535
+1:M 10 Aug 2025 16:16:44.411 - Client closed connection
+1:M 10 Aug 2025 16:16:45.343 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:16:46.415 - Accepted 192.168.65.1:40541
+1:M 10 Aug 2025 16:16:46.421 - Client closed connection
+1:M 10 Aug 2025 16:16:48.423 - Accepted 192.168.65.1:40562
+1:M 10 Aug 2025 16:16:48.428 - Client closed connection
+1:M 10 Aug 2025 16:16:49.436 - Accepted 192.168.65.1:40583
+1:M 10 Aug 2025 16:16:50.428 - Accepted 192.168.65.1:40588
+1:M 10 Aug 2025 16:16:50.431 - Client closed connection
+1:M 10 Aug 2025 16:16:50.455 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:16:52.432 - Accepted 192.168.65.1:40595
+1:M 10 Aug 2025 16:16:52.435 - Client closed connection
+1:M 10 Aug 2025 16:16:54.442 - Accepted 192.168.65.1:40602
+1:M 10 Aug 2025 16:16:54.447 - Client closed connection
+1:M 10 Aug 2025 16:16:55.568 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:16:56.454 - Accepted 192.168.65.1:40607
+1:M 10 Aug 2025 16:16:56.457 - Client closed connection
+1:M 10 Aug 2025 16:16:58.457 - Accepted 192.168.65.1:40630
+1:M 10 Aug 2025 16:16:58.459 - Client closed connection
+1:M 10 Aug 2025 16:17:00.468 - Accepted 192.168.65.1:40651
+1:M 10 Aug 2025 16:17:00.474 - Client closed connection
+1:M 10 Aug 2025 16:17:00.643 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:17:02.473 - Accepted 192.168.65.1:40657
+1:M 10 Aug 2025 16:17:02.474 - Client closed connection
+1:M 10 Aug 2025 16:17:04.480 - Accepted 192.168.65.1:40663
+1:M 10 Aug 2025 16:17:04.485 - Client closed connection
+1:M 10 Aug 2025 16:17:05.763 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:17:06.486 - Accepted 192.168.65.1:40669
+1:M 10 Aug 2025 16:17:06.488 - Client closed connection
+1:M 10 Aug 2025 16:17:08.492 - Accepted 192.168.65.1:40691
+1:M 10 Aug 2025 16:17:08.494 - Client closed connection
+1:M 10 Aug 2025 16:17:10.497 - Accepted 192.168.65.1:40713
+1:M 10 Aug 2025 16:17:10.503 - Client closed connection
+1:M 10 Aug 2025 16:17:10.873 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:17:12.502 - Accepted 192.168.65.1:40719
+1:M 10 Aug 2025 16:17:12.507 - Client closed connection
+1:M 10 Aug 2025 16:17:14.512 - Accepted 192.168.65.1:40726
+1:M 10 Aug 2025 16:17:14.517 - Client closed connection
+1:M 10 Aug 2025 16:17:15.935 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:17:16.517 - Accepted 192.168.65.1:40731
+1:M 10 Aug 2025 16:17:16.521 - Client closed connection
+1:M 10 Aug 2025 16:17:18.523 - Accepted 192.168.65.1:40753
+1:M 10 Aug 2025 16:17:18.527 - Client closed connection
+1:M 10 Aug 2025 16:17:20.527 - Accepted 192.168.65.1:40775
+1:M 10 Aug 2025 16:17:20.529 - Client closed connection
+1:M 10 Aug 2025 16:17:20.996 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:17:22.533 - Accepted 192.168.65.1:40782
+1:M 10 Aug 2025 16:17:22.539 - Client closed connection
+1:M 10 Aug 2025 16:17:24.539 - Accepted 192.168.65.1:40788
+1:M 10 Aug 2025 16:17:24.542 - Client closed connection
+1:M 10 Aug 2025 16:17:26.051 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:17:26.544 - Accepted 192.168.65.1:40794
+1:M 10 Aug 2025 16:17:26.548 - Client closed connection
+1:M 10 Aug 2025 16:17:28.555 - Accepted 192.168.65.1:40815
+1:M 10 Aug 2025 16:17:28.559 - Client closed connection
+1:M 10 Aug 2025 16:17:30.560 - Accepted 192.168.65.1:40837
+1:M 10 Aug 2025 16:17:30.562 - Client closed connection
+1:M 10 Aug 2025 16:17:31.101 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:17:32.572 - Accepted 192.168.65.1:40843
+1:M 10 Aug 2025 16:17:32.577 - Client closed connection
+1:M 10 Aug 2025 16:17:34.583 - Accepted 192.168.65.1:40849
+1:M 10 Aug 2025 16:17:34.587 - Client closed connection
+1:M 10 Aug 2025 16:17:36.169 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:17:36.586 - Accepted 192.168.65.1:40856
+1:M 10 Aug 2025 16:17:36.589 - Client closed connection
+1:M 10 Aug 2025 16:17:38.601 - Accepted 192.168.65.1:40878
+1:M 10 Aug 2025 16:17:38.604 - Client closed connection
+1:M 10 Aug 2025 16:17:40.606 - Accepted 192.168.65.1:40899
+1:M 10 Aug 2025 16:17:40.612 - Client closed connection
+1:M 10 Aug 2025 16:17:41.228 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:17:42.613 - Accepted 192.168.65.1:40905
+1:M 10 Aug 2025 16:17:42.618 - Client closed connection
+1:M 10 Aug 2025 16:17:44.617 - Accepted 192.168.65.1:40911
+1:M 10 Aug 2025 16:17:44.620 - Client closed connection
+1:M 10 Aug 2025 16:17:46.284 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+1:M 10 Aug 2025 16:17:46.627 - Accepted 192.168.65.1:40917
+1:M 10 Aug 2025 16:17:46.630 - Client closed connection
+1:M 10 Aug 2025 16:17:48.636 - Accepted 192.168.65.1:40940
+1:M 10 Aug 2025 16:17:48.639 - Client closed connection
